@@ -4,11 +4,7 @@ const ingresos = [
     new Ingreso('nuevo ingreso', 2500)
 ];
 
-const egresos = [
-    new Egreso('arriendo', 1200),
-    new Egreso('servicios', 800),
-    new Egreso('cuota moto', 7500)
-];
+const egresos = [];
 
 let cargarApp = () => {
     cargarCabecero();
