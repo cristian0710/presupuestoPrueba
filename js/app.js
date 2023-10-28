@@ -1,8 +1,4 @@
-const ingresos = [
-    new Ingreso('sueldo', 13000),
-    new Ingreso('venta Carro', 2500),
-    new Ingreso('nuevo ingreso', 2500)
-];
+const ingresos = [];
 
 const egresos = [];
 
